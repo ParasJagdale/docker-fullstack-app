@@ -45,6 +45,6 @@ MongoDB (Database container with volume)
 ### Steps
 
 ```bash
-git clone [https://github.com/<your-username>/docker-fullstack-app.git](https://github.com/ParasJagdale/docker-fullstack-app)
+git clone https://github.com/ParasJagdale/docker-fullstack-app
 cd docker-fullstack-app
 ```
