@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.local
+
+# Docker
+docker-data/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# React build
+frontend/build/
